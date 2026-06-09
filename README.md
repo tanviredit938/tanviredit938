@@ -1,25 +1,88 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Md+Tanvirul+Islam;Cybersecurity+Enthusiast;App+Developer;Network+Engineer;Digital+Marketing+Expert" /><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C6FF,50:0072FF,100:8E2DE2&text=Md%20Tanvirul%20Islam&fontSize=45&fontColor=ffffff&animation=fadeIn"/>👨‍💻 Md Tanvirul Islam
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20Profile&fontSize=40&fontAlignY=40&color=0:00D9FF,50:6A5ACD,100:8A2BE2&animation=fadeIn"/><br><a href="https://mdtanvirulislam.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-Visit%20Now-6A5ACD?style=for-the-badge">
+🔐 Cybersecurity Enthusiast • 📱 App Developer • 🌐 Network Engineer • 📈 Digital Marketing Expert
+
+<br><a href="https://mdtanvirulislam.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-Visit%20Now-0072FF?style=for-the-badge">
 </a><a href="https://t.me/md_tanvirul_islam69">
-<img src="https://img.shields.io/badge/Telegram-Message%20Me-00D9FF?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a><a href="https://www.facebook.com/mdtanvirulislam174">
 <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a><a href="https://www.facebook.com/Darkcyberhacker">
-<img src="https://img.shields.io/badge/Facebook-Page-8A2BE2?style=for-the-badge&logo=facebook&logoColor=white">
+<img src="https://img.shields.io/badge/Facebook-Page-8E2DE2?style=for-the-badge&logo=facebook&logoColor=white">
 </a></div>---
 
-📊 GitHub Statistics
+🚀 About Me
 
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=tanviredit938&show_icons=true&theme=transparent&hide_border=true"/></p>---
+Name: Md Tanvirul Islam
+Username: tanviredit938
 
-🔥 Contribution Streak
+Roles:
+  - Cybersecurity Enthusiast
+  - App Developer
+  - Network Engineer
+  - Digital Marketing Expert
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=tanviredit938&theme=transparent&hide_border=true"/></p>---
+Website:
+  - mdtanvirulislam.netlify.app
 
-🛠️ Tech Stack
+Goal:
+  - Learn
+  - Build
+  - Innovate
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,flutter,firebase,linux,git,github,vscode,androidstudio,mysql"/>
-</p>
+---
+
+🛠️ Languages & Tools
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,flutter,firebase,linux,git,github,vscode,androidstudio,mysql"/></p>---
+
+🔥 Skills
+
+🔐 Cyber Security
+
+- Linux
+- Network Security
+- Security Research
+- Ethical Security Learning
+
+📱 App Development
+
+- Android Development
+- Flutter
+- Firebase
+- Java
+
+🌐 Networking
+
+- Routing & Switching
+- Network Troubleshooting
+- TCP/IP Fundamentals
+
+📈 Digital Marketing
+
+- SEO
+- Social Media Marketing
+- Content Strategy
+
+---
+
+🌍 Connect With Me
+
+<p align="center"><a href="https://mdtanvirulislam.netlify.app">
+<img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a><a href="https://t.me/md_tanvirul_islam69">
+<img src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a><a href="https://www.facebook.com/mdtanvirulislam174">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a><a href="https://www.facebook.com/Darkcyberhacker">
+<img src="https://img.shields.io/badge/Facebook-Page-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
+</a></p>---
+
+<div align="center">💡 Code • Learn • Build • Innovate
+
+🚀 Turning Ideas Into Reality Through Technology
+
+⭐ Thanks For Visiting My Profile ⭐
+
+</div><img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C6FF,50:0072FF,100:8E2DE2"/>
