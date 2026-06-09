@@ -1,75 +1,65 @@
 <div align="center">👨‍💻 Md Tanvirul Islam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Digital+Marketing+Expert;App+Developer;Network+Engineer;Tech+Lover+🚀" /><br>🔥 Passionate About Technology, Security & Innovation
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Md%20Tanvirul%20Islam&fontSize=45&fontColor=ffffff&animation=fadeIn"/>🔐 Cybersecurity Enthusiast • 📱 App Developer • 🌐 Network Engineer • 📈 Digital Marketing Expert
 
-<br><a href="https://t.me/md_tanvirul_islam69">
-<img src="https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<br><a href="https://mdtanvirulislam.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Official_Website-Visit_Now-blue?style=for-the-badge">
+</a><a href="https://t.me/md_tanvirul_islam69">
+<img src="https://img.shields.io/badge/Telegram-@md_tanvirul_islam69-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a><a href="https://www.facebook.com/mdtanvirulislam174">
-<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<img src="https://img.shields.io/badge/Facebook_Profile-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a><a href="https://www.facebook.com/Darkcyberhacker">
-<img src="https://img.shields.io/badge/Facebook-Page-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
+<img src="https://img.shields.io/badge/Facebook_Page-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
 </a></div>---
 
 🚀 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA4Z2h4c3Q4dWx2cW1hYzV0dW54OHhlM3N0dDN0NDB6MXQ4cW15YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif">🔐 Cybersecurity Enthusiast
-
-📈 Digital Marketing Expert
-
-📱 Android App Developer
-
-🌐 Network Engineer
-
-💻 Open Source Contributor
-
-⚡ Learning New Technologies Everyday
-
-🎯 Focused On Building Secure & Modern Solutions
+Name: Md Tanvirul Islam
+Role: Tech Enthusiast
+Focus:
+  - Cybersecurity
+  - App Development
+  - Networking
+  - Digital Marketing
+  - Open Source
+Location: Bangladesh 🇧🇩
 
 ---
 
-🛠️ Tech Stack
+🛠️ Technologies & Tools
 
-🔐 Cyber Security
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,flutter,firebase,mysql,github,git,linux,vscode,androidstudio"/></p>---
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,github"/>
-</p>📱 App Development
+🔐 Cybersecurity
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio,firebase"/>
-</p>🌐 Networking
+<p align="center"><img src="https://img.shields.io/badge/Linux-Expert-black?style=for-the-badge&logo=linux"><img src="https://img.shields.io/badge/Network_Security-Advanced-green?style=for-the-badge"><img src="https://img.shields.io/badge/Ethical_Hacking-Learning-red?style=for-the-badge"></p>---
 
-<p>
-<img src="https://skillicons.dev/icons?i=cloudflare"/>
-</p>📈 Digital Marketing
+📊 GitHub Analytics
 
-<p>
-<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Social_Media_Marketing-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/Content_Marketing-4CAF50?style=for-the-badge">
-</p>---
+<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=mdtanvirulislam&show_icons=true&theme=github_dark&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanvirulislam&layout=compact&theme=github_dark&hide_border=true"/></p>---
 
-📊 GitHub Statistics
+🔥 Contribution Streak
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/></p>---
+<p align="center"><img src="https://streak-stats.demolab.com?user=mdtanvirulislam&theme=github-dark-blue&hide_border=true"/></p>---
 
-🏆 GitHub Trophies
+🏆 Achievements
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&row=2&column=4"></p>---
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mdtanvirulislam&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/></p>---
 
-📈 Visitor Counter
+🌐 Connect With Me
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00ff00&style=for-the-badge"></p>---
+<p align="center"><a href="https://mdtanvirulislam.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a><a href="https://t.me/md_tanvirul_islam69">
+<img src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a><a href="https://www.facebook.com/mdtanvirulislam174">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a><a href="https://www.facebook.com/Darkcyberhacker">
+<img src="https://img.shields.io/badge/Facebook-Page-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
+</a></p>---
 
-💡 Quote
+<div align="center">💻 "Code • Create • Secure • Innovate"
 
-<div align="center">🚀 "Code • Secure • Build • Innovate"
+🚀 Building The Future One Project At A Time
 
-🔥 "Technology Is Not Just A Skill, It's A Lifestyle"
-
-</div>---
-
-<div align="center">⭐ Thanks For Visiting My Profile ⭐
-
-</div>
+</div><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
